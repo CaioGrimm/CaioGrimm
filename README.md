@@ -26,7 +26,7 @@
 ### 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,html,css,js,ts&theme=dark" alt="Linguagens"/>
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,js,ts&theme=dark" alt="Linguagens"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,qt,git,github,linux,windows,vscode&theme=dark" alt="Ferramentas"/>
 </p>
@@ -54,7 +54,7 @@
 | 📊 **Relatórios e dados** | Geradores de relatórios automáticos, rateios, análise em Jupyter |
 | 🖥️ **Ferramentas de TI** | Monitoramento e auto-remediação de processos, descoberta de rede L2/L3, integração com Zabbix |
 | 🪟 **Apps desktop** | Aplicações com Tkinter e PyQt6 |
-| 🌐 **Web** | Projetos com Laravel, HTML/CSS e JavaScript |
+| 🌐 **Web** | Projetos com PHP, HTML/CSS e JavaScript |
 
 ---
 
