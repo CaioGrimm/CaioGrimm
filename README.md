@@ -60,8 +60,7 @@
 
 ### 📌 Projetos em destaque
 
-> 🔒 Projetos corporativos e pessoais com código privado — posso apresentá-los em detalhes.
-
+> 🔒 Projetos corporativos e pessoais com código privado
 <table>
 <tr>
 <td width="50%" valign="top">
