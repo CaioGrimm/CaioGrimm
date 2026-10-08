@@ -17,7 +17,7 @@
 - 🎓 Estudante de **Ciência da Computação** na **UFAM** (7º período)
 - 🏭 **Analista de Suporte de TI Pleno** na **Salcomp**, em Manaus/AM
 - ⚙️ Desenvolvo ferramentas internas e integrações com as **APIs do sistema MES**, automatizando processos da fábrica
-- 🐍 Programo principalmente em **Python** e **PHP** (Laravel)
+- 🐍 Programo principalmente em **Python** e **PHP**
 - 🌐 Também trabalho com **HTML**, **CSS** e um pouco de **JavaScript/TypeScript**
 - 🖧 Mais de 5 anos de experiência com infraestrutura, redes, Windows Server e virtualização (Proxmox)
 
