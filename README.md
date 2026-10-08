@@ -52,7 +52,7 @@
 |------|----------|
 | 🏭 **Automação industrial** | Integrações com o MES, parsers CSV → XML de testadores, monitoramento de pallets |
 | 📊 **Relatórios e dados** | Geradores de relatórios automáticos, rateios, análise em Jupyter |
-| 🖥️ **Ferramentas de TI** | Watchdog de processos Windows via API REST, testes de conexão com Zabbix |
+| 🖥️ **Ferramentas de TI** | Monitoramento e auto-remediação de processos, descoberta de rede L2/L3, integração com Zabbix |
 | 🪟 **Apps desktop** | Aplicações com Tkinter e PyQt6 |
 | 🌐 **Web** | Projetos com Laravel, HTML/CSS e JavaScript |
 
@@ -60,12 +60,76 @@
 
 ### 📌 Projetos em destaque
 
-<p align="center">
-  <a href="https://github.com/CaioGrimm/Paintk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioGrimm&repo=Paintk&theme=tokyonight&hide_border=true" alt="Paintk"/></a>
-  <a href="https://github.com/CaioGrimm/calculadora-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioGrimm&repo=calculadora-python&theme=tokyonight&hide_border=true" alt="Calculadora Python"/></a>
-  <a href="https://github.com/CaioGrimm/ImagemVideo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioGrimm&repo=ImagemVideo&theme=tokyonight&hide_border=true" alt="ImagemVideo"/></a>
-  <a href="https://github.com/CaioGrimm/BD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioGrimm&repo=BD&theme=tokyonight&hide_border=true" alt="BD"/></a>
-</p>
+> 🔒 Projetos desenvolvidos para ambiente corporativo. O código é privado, mas posso apresentá-los em detalhes.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🐕 Ecossistema WatchDog
+Sistema de **monitoramento, auto-remediação e controle remoto** de aplicações críticas em máquinas Windows. Reinicia automaticamente processos que param e oferece um painel centralizado com status em tempo real.
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🗺️ AutoMap
+Ferramenta de **descoberta de rede L2/L3** que descobre em qual roteador, switch e porta física cada computador está conectado, cruzando **AD (LDAP) → DNS → ICMP → SNMP** (tabelas ARP e CAM), com histórico em SQLite.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SNMP](https://img.shields.io/badge/SNMP-4A5568?style=flat-square&logo=cisco&logoColor=white)
+![LDAP](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat-square&logo=windows&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💊 Notificação — Lembrete de Remédios
+Assistente proativo que envia lembretes de medicamentos e **cobra até receber confirmação** via WhatsApp (WAHA) ou **Amazon Alexa**. Painel web multi-cuidador e proteção em 6 camadas (whitelist zero-trust).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WAHA-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Alexa](https://img.shields.io/badge/Alexa-00CAFF?style=flat-square&logo=amazonalexa&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧪 IT-Parser
+Conversor que **monitora em tempo real** os CSVs gerados pelos testadores da linha de produção e os transforma em XML para o sistema de qualidade, processando apenas as linhas novas. Substituiu uma ferramenta legada.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚡ Watchdog Executor
+**API REST** para iniciar, parar e reiniciar processos remotamente em máquinas Windows, com ícone na bandeja do sistema e servidor Waitress para produção.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/REST%20API-000000?style=flat-square&logo=flask&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📦 Monitor de Pallets & Relatórios
+Automações para a fábrica: **monitoramento de pallets**, atualização de pesos, geradores de **relatórios automáticos** e rateio de custos de TI.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
