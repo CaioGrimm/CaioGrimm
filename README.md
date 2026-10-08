@@ -136,11 +136,7 @@ Automações para a fábrica: **monitoramento de pallets**, atualização de pes
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioGrimm&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGrimm&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CaioGrimm&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=CaioGrimm&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 </p>
 
 ---
