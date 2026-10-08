@@ -63,6 +63,22 @@
 > 🔒 Projetos corporativos e pessoais com código privado
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+#### 💰 Finance Dashboard
+Sistema de **controle financeiro** para lançamentos de pagamentos a fornecedores: integração com o **SAP** para importar e sincronizar POs, controle de **saldo por item da PO**, catálogo automático de notas fiscais, **lembretes mensais com calendário** e migração de bancos legados.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🐕 Ecossistema WatchDog
