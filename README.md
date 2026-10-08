@@ -60,7 +60,7 @@
 
 ### 📌 Projetos em destaque
 
-> 🔒 Projetos desenvolvidos para ambiente corporativo. O código é privado, mas posso apresentá-los em detalhes.
+> 🔒 Projetos corporativos e pessoais com código privado — posso apresentá-los em detalhes.
 
 <table>
 <tr>
